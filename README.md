@@ -4,7 +4,7 @@ warehouse where we keep our assets and transfer them to the "portnet" to send th
 
 ## Warehouse
 
-Warehouse aims to become the interchange portal for the pacific logistics suite
+Warehouse aims to become the interchange portal for the pacific logistics suite.
 
 ## License
 
